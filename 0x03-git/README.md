@@ -1,1 +1,1 @@
-This is a readme file for the git subfolder
+How to be up to date in git
